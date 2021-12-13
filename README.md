@@ -32,7 +32,7 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
        <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="45" height="45"/> </a>
        <a href="https://www.jetbrains.com/phpstorm/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="phpstorm" width="45" height="45"/> </a>
-    <a href="https://github.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="laravel" width="45" height="45"/></a> 
+    <a href="https://github.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" alt="laravel" width="45" height="45"/></a> 
 
 
 
