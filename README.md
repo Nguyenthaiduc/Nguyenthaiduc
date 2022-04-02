@@ -1,4 +1,4 @@
-<img align="right" width=300px height=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=250px  alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....*** <br>
 ✔ - 👋 Hi, I’m Nguyen Thai Duc 😊 <br>
