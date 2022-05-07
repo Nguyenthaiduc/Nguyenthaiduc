@@ -33,7 +33,7 @@
 <!--     <a href="https://github.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" alt="laravel" width="45" height="45"/></a>  -->
  <br/>
 <br/>
- [NTD github stats](https://github-readme-stats.vercel.app/api?username=nguyenthaiduc&show_icons=true&theme=tokyonight) | ![NTduc GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nguyenthaiduc&theme=tokyonight)
+ !| [NTD github stats](https://github-readme-stats.vercel.app/api?username=nguyenthaiduc&show_icons=true&theme=tokyonight) | !
 
 
 
