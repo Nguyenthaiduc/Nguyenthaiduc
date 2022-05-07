@@ -31,9 +31,7 @@
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
        <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="45" height="45"/> </a>
 <!--     <a href="https://github.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" alt="laravel" width="45" height="45"/></a>  -->
- <br/>
-<br/>
-<img src = "https://github-readme-stats.vercel.app/api?username=nguyenthaiduc&show_icons=true&theme=tokyonight" />
+
 
 
 <!---
