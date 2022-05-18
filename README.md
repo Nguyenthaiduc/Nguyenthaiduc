@@ -1,7 +1,14 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=nguyenthaiduc.repoName) [![GitHub followers](https://img.shields.io/github/followers/nguyenthaiduc.svg?style=social&label=Follow)](https://github.com/nguyenthaiduc?tab=followers)<br/>
 <!-- <img align="right" width=250px  alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" /> -->
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....*** <br>
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenthaiduc&theme=vue)
+
+
+
+</div>
+<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....*** <br>
 ✔ - 👋 Hi, I’m Nguyen Thai Duc 😊 <br>
 ✔ - 👀 I’m interested in📖 I love to read novels, 🎵 listen to music, and 🌴*<br>
 ✔ - 🌱 I’m currently learning Java , TypeScript , ReactJS🥰<br>
@@ -29,7 +36,7 @@
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
    <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-       <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="45" height="45"/> </a>
+       <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="45" height="45"/> </a> -->
 <!--     <a href="https://github.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" alt="laravel" width="45" height="45"/></a>  -->
 
 
